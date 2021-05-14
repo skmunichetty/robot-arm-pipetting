@@ -1,0 +1,2 @@
+# robot-arm-pipetting
+The application is a simulation of a laboratory pipetting robot arm moving above a square plate of 25 wells, of dimensions 5 units x 5 units.. The robot is free to roam above the surface of the plate, but must be prevented from moving beyond the boundaries of the plate. Any movement that would result in the robot arm overshooting the plate must be prevented, however further valid movement commands must still be allowed.-Assume that the robot has been primed with enough solution to pipette
