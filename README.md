@@ -3,7 +3,7 @@
 - If you select PLACE command, the app will ask you to choose the x and y coordinates.
 - If you select MOVE command, the app will prompt you will different directions to choose, based on the direction that you choose it will update the coordinate.
 - If you select DETECT command, the app will reply you whether the well is EMPTY or FULL.
-- If you select DROP command, the app  will set the well to FULL status.
+- If you select DROP command, the app  will set the x and y coordinate of the well to FULL status.
 - If you select REPORT command, the app will respond with the output.
 - If you select any other command, which is invalid, the app will ask you to choose the right command.
 
