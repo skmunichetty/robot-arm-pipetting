@@ -8,6 +8,6 @@
 - If you select any other command, which is invalid, the app will ask you to choose the right command.
 
 >  ### Notes
-- When the application starts the wells will reset to status of EMPTY.
+- When the application starts, all the wells will reset its status of EMPTY.
 - If the user tries to place a coordinate outside the range of the plate, the app will validate. 
 - If the user tries to move a direction outside the range of the plate, the app will ignore.
